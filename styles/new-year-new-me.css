@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+
+}
+
+header {
+    width: 1500px;
+    height: 809px;
+    background-image: url("/images/banner/banner1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-color: gray; */
+    background-blend-mode: multiply;
+    /* position: absolute; */
+
+}
+
+/* banner */
+.title {
+
+    color: black;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    margin-right: 230px;
+    padding-top: 300px;
+    list-style: none;
+    padding-top: 90px;
+    text-decoration: none;
+    font-family: Work Sans;
+}
+
+.description {
+    color: #444343;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    margin-top: 24px;
+    margin-right: 230px;
+    list-style: none;
+}
+
+.bn-btn {
+
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    /* background-color: #fc6f03; */
+    text-align: right;
+    margin-top: 24px;
+    margin-right: 230px;
+    list-style: none;
+}
+
+#bn-butoon {
+    background-color: #fc6f03;
+    color: white;
+    /* padding-top: 20px; */
+    /* width: 109px;
+    height: 24px; */
+
+}
+
+.main-div {
+    display: flex;
+}
+
+/* Aritical */
+.failures-main-cont-div {
+    display: flex;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.cont-1 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.cont-2 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 800px;
+}
+
+.cont-3 {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 800px;
+}
+
+.div-main-my-plan {
+    display: flex;
+}
+
+.plans-1 {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.plans-2 {
+    width: 200px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+.plans-3 {
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 300px;
+}
+
+.plans-4 {
+    width: 200px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+    /* text-align: justify; */
+}
+
+.img-positive {
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: -900px;
+}
+
+.footer {
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    background-color: black;
+    margin-top: 800px;
+}
